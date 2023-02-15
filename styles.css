@@ -1,1 +1,17 @@
 /* your code */
+table{
+	height:100px;
+	border-radius:10px;
+	width:100%;
+	background-color:lightblue
+}
+tr:nth-of-type(even) {
+  background: #e0e0e0;
+}
+th{
+	
+	background-color:gray;
+}
+tr{
+	text-align:left;
+}
